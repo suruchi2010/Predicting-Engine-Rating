@@ -1,0 +1,9 @@
+Python packages required for this project -
+
+numpy 
+panda
+seaborn 
+matplotlib
+sklearn
+jupyter notebook
+Anaconda
